@@ -6,17 +6,17 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "waliullah-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100076124213651",
+    "100046272237044"
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "100076124213651",
+    "100046272237044"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100076124213651"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
